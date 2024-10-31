@@ -12,7 +12,7 @@
 
 # 𝑹𝒂𝒗𝒊
 
-As a data Scientist Student of University San Diego, 🌱 I’m currently learning : Machine Learning and Artificial Intelligence. I want to harness the power of data to make smarter, more strategic decisions. These skills allow me to dive into large datasets, uncover patterns, and anticipate future trends, which is essential for proactive problem-solving.
+As a data scientist student of University of San Diego, 🌱 I’m currently learning : Machine Learning and Artificial Intelligence. I want to harness the power of data to make smarter, more strategic decisions. These skills allow me to dive into large datasets, uncover patterns, and anticipate future trends, which is essential for proactive problem-solving.
 
 Machine learning and AI add another layer by enabling me to build systems that can learn, adapt, and automate complex tasks, making processes more efficient over time. Predictive and prescriptive modeling help me not only forecast outcomes but also recommend optimal actions, which is invaluable in guiding business decisions. Altogether, these skills equip me to drive impactful change and make a real difference in my work.
 
@@ -22,8 +22,8 @@ Machine learning and AI add another layer by enabling me to build systems that c
 - Languages: Python, R, SQL, C++, JScript
 - Data Science Platforms: AWS SageMaker, Azure, Google Colab, Jupyter Notebook, Microsoft VS Code, GitHub Desktop
 - Visualization: Tableau, Power BI, Asana 
-- Machine Learning: Pandas, Matplotlib, Scikit-Learn, TensorFlow, PyTorch
-- Database: MySQL, MSSQL, SQL Bench, PostgreSQL
+- Libraries: Pandas, Matplotlib, Scikit-Learn, TensorFlow, PyTorch
+- Database: MySQL, MSSQL, PostgreSQL
 
 💼 Certification
 - PMP
