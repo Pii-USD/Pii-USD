@@ -1,7 +1,13 @@
 ## Hi there 👋
 
-
 # 𝑹𝒂𝒗𝒊
+![SQL Expert](https://img.shields.io/badge/SQL-Expert-orange?style=flat&labelColor=grey) 
+![Power BI Expert](https://img.shields.io/badge/PowerBI-Expert-brightgreen?style=flat&labelColor=grey) 
+![Python Expert](https://img.shields.io/badge/Python-Expert-blue?style=flat&labelColor=grey) 
+
+![R Learner](https://img.shields.io/badge/R-Learner-lightgrey?style=flat&labelColor=grey)
+![PyTorch Learner](https://img.shields.io/badge/PyTorch-Learner-red?style=flat&labelColor=grey)
+![TensorFlow Learner](https://img.shields.io/badge/TensorFlow-Learner-orange?style=flat&labelColor=grey)
 
 As a data scientist student of University of San Diego, 🌱 I’m currently learning : Machine Learning and Artificial Intelligence. I want to harness the power of data to make smarter, more strategic decisions. These skills allow me to dive into large datasets, uncover patterns, and anticipate future trends, which is essential for proactive problem-solving.
 
@@ -11,7 +17,7 @@ Machine learning and AI add another layer by enabling me to build systems that c
 
 🛠️ Tools
 - Languages: Python, R, SQL, C++, JScript
-- Data Science Platforms: AWS SageMaker, Azure, Google Colab, Jupyter Notebook, Microsoft VS Code, GitHub Desktop
+- Data Science Platforms: AWS SageMaker, Azure, Google Colab, Jupyter Notebook, VS Code, GitHub
 - Visualization: Tableau, Power BI, Asana 
 - Libraries: Pandas, Matplotlib, Scikit-Learn, TensorFlow, PyTorch
 - Database: MySQL, MSSQL, PostgreSQL
