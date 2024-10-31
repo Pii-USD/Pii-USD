@@ -1,14 +1,5 @@
 ## Hi there 👋
 
-![SQL Expert](https://img.shields.io/badge/SQL-Expert-orange?style=flat&labelColor=grey) 
-![Power BI Expert](https://img.shields.io/badge/PowerBI-Expert-brightgreen?style=flat&labelColor=grey) 
-![Python Expert](https://img.shields.io/badge/Python-Expert-blue?style=flat&labelColor=grey) 
-
-
-![R Learner](https://img.shields.io/badge/R-Learner-lightgrey?style=flat&labelColor=grey)
-![PyTorch Learner](https://img.shields.io/badge/PyTorch-Learner-red?style=flat&labelColor=grey)
-![TensorFlow Learner](https://img.shields.io/badge/TensorFlow-Learner-orange?style=flat&labelColor=grey)
-
 
 # 𝑹𝒂𝒗𝒊
 
